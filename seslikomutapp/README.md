@@ -1,4 +1,7 @@
-# seslikomutapp
+# seslikomutapp -stop diyerek ses kaydını durdurabilirsiniz-
+
+# link
+## https://sesli-komut-app.netlify.app/
 
 ## Project setup
 ```
